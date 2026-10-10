@@ -1,0 +1,10 @@
+# Only submit what the Milestone 1 brief asks for: the Unity project, the post-mortem PDF, and the README.
+/*
+!/.gitignore
+!/README.md
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!/*.pdf
+.DS_Store
+/Assets/_Recovery*
