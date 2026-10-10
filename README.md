@@ -21,8 +21,8 @@ A third-person character controller in a grey-box test course, made in Unity 6 (
 
 ## Deliverables
 - Post-mortem PDF: [CCT382_Milestone1_PostMortem.pdf](CCT382_Milestone1_PostMortem.pdf)
-- Build: (https://drive.google.com/file/d/1SEPuZMiJvpy3w6Ph0F09v4xGynAtY6e_/view?usp=drive_link)
-- 30-second video: (https://drive.google.com/file/d/1M6Zjlm9xax3auWOJLSqM2hvrhtNme3wT/view?usp=drive_link)
+- Build: [Download the Mac build](https://drive.google.com/file/d/1SEPuZMiJvpy3w6Ph0F09v4xGynAtY6e_/view?usp=drive_link)
+- 30-second video: [Watch the video](https://drive.google.com/file/d/1M6Zjlm9xax3auWOJLSqM2hvrhtNme3wT/view?usp=drive_link)
 
 ## Credits
 - "Eve" character by J. Gonzales, and the "Jumping" and "Crouched Walking" animations, from Mixamo (https://www.mixamo.com/#/?page=1&query=eve&type=Character)
