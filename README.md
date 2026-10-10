@@ -20,7 +20,7 @@ A third-person character controller in a grey-box test course, made in Unity 6 (
 - Grey-box test course: run lane, steps and ramp, height blocks, and a low ceiling that needs a crouch
 
 ## Deliverables
-- Post-mortem PDF: see the section below
+- Post-mortem PDF: [CCT382_Milestone1_PostMortem.pdf]
 - Build: (https://drive.google.com/file/d/1SEPuZMiJvpy3w6Ph0F09v4xGynAtY6e_/view?usp=drive_link)
 - 30-second video: (https://drive.google.com/file/d/1M6Zjlm9xax3auWOJLSqM2hvrhtNme3wT/view?usp=drive_link)
 
